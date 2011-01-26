@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== SWFAmf ===
 Contributors: y_nk
 Donate link: http://wikileaks.ch/Support.html
 Tags: flash, theme, amf
